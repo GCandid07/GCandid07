@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GCandid07&show_icons=true&theme=vision-friendly-dark" alt="Gabriel-Candido's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCandid07&layout=compact&theme=vision-friendly-dark" alt="Gabriel-Candido's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GCandid07&show_icons=true&theme=github_dark" alt="Gabriel-Candido's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCandid07&layout=compact&theme=github_dark" alt="Gabriel-Candido's most languages"/>
 </p>
 
 <br><br>
