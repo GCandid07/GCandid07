@@ -7,7 +7,7 @@
 
 <p align="center"> 🔭 I’m currently working on <a href="https://www.ecowe.co/" target="_blank" rel="noreferrer">Ecowe<a/></p>
 
-<p align="center"> 💬 Ask me about **React** </p>
+<p align="center"> 💬 Ask me about <b>React</b> </p>
 
 <p align="center"> ⚡ Fun fact <b>I think I'm funny</b> </p>
 
