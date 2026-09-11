@@ -39,7 +39,3 @@
 </p>
 
 <br><br>
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCandid07&theme=blue-green" alt="gcandid07" width="35%"/></p>
-
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=gcandid07&show_icons=true&locale=en&theme=blue-green" alt="gcandid07" width="58%"/></p>
